@@ -3,14 +3,6 @@
 Sub Projects
 ============
 
-Desktop
--------
-
-.. toctree::
-   :maxdepth: 1
-
-   desktop/docs/index
-
 Core
 ----
 
@@ -18,3 +10,11 @@ Core
    :maxdepth: 1
 
    core/docs/index
+
+Desktop
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   desktop/docs/index
