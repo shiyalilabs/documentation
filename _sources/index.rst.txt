@@ -1,0 +1,20 @@
+.. mdinclude:: README.md
+
+Sub Projects
+============
+
+Desktop
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   desktop/docs/index
+
+Core
+----
+
+.. toctree::
+   :maxdepth: 1
+
+   core/docs/index
