@@ -4,7 +4,7 @@
 
 Brime is an open source, simple and powerful self-hosted note taking application that lets an organisation have its notes stored on its own servers preventing any outside element to get access to the private data of the organisation. It has a beautifully designed interface following the trending Material Design
 
-## Components
+## Component
 
 ### 1. Core
 The Brime Core is the Restful API that handles the server-side data manipulation and retireval. A demo deployment of the API is set up at http://brime.ml/
